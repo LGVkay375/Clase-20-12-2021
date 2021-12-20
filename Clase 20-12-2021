@@ -1,4 +1,4 @@
-## Sesion 1-2 R -- 14/12/2021
+## Sesion 1-2 R -- 20/12/2021
 
 ## 1. Cálculos básicos
 
@@ -138,3 +138,6 @@ table(base_85$elec_pres_1.Dummy)
 table(base_85$interes_pol_1_b)
 base_85$interes_pol_1_b_R = revalue(base_85$interes_pol_1_b, c("1"="2", "2"="2","3"="1", "4"="1", "5"="0", "8"="0","9"="0"))
 table(base_85$interes_pol_1_b_R)
+
+
+
